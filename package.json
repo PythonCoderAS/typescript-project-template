@@ -11,9 +11,6 @@
     "lint": "prettier --check . && eslint . --ext .ts",
     "lint-fix": "prettier --write . && eslint . --ext .ts --fix"
   },
-  "bin": {
-    "github-copy-secrets": "./dist/index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PythonCoderAS/<package-name>.git"
