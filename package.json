@@ -28,7 +28,7 @@
     "@types/chai-as-promised": "^7.1.8",
     "@types/mocha": "^10.0.6",
     "@types/node": "^20.11.6",
-    "chai": "^5.0.0",
+    "chai": "^5.0.3",
     "chai-as-promised": "^7.1.1",
     "eslint": "^8.37.0",
     "eslint-config-prettier": "^9.0.0",
