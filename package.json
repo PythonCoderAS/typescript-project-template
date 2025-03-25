@@ -24,7 +24,7 @@
   "homepage": "https://github.com/PythonCoderAS/<package-name>#readme",
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
-    "@types/chai": "^5.2.0",
+    "@types/chai": "^5.2.1",
     "@types/chai-as-promised": "^8.0.2",
     "@types/mocha": "^10.0.10",
     "@types/node": "^22.13.13",
