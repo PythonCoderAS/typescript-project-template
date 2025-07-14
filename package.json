@@ -30,7 +30,7 @@
     "@types/node": "^24.0.13",
     "chai": "^5.2.1",
     "chai-as-promised": "^8.0.1",
-    "eslint": "^9.30.1",
+    "eslint": "^9.31.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-config-pythoncoderas-combo": "^1.1.3",
     "mocha": "^11.7.1",
